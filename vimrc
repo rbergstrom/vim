@@ -7,9 +7,9 @@ syntax on
 filetype plugin indent on
 set backspace=indent,eol,start
 set backup
-set backupdir=~/vimfiles/backup
+set backupdir=~/.vimfiles/backup,~/vimfiles/backup
 set clipboard+=unnamed
-set directory=~/vimfiles/tmp
+set directory=~/.vimfiles/tmp,~/vimfiles/tmp
 set fileformats=unix,dos,mac
 set hidden
 set noerrorbells
